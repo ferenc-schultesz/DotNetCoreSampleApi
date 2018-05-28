@@ -1,0 +1,16 @@
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.csprojResolveAssemblyReference.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.csproj.CoreCompileInputs.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.AssemblyInfoInputs.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.AssemblyInfo.cs
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.deps.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.runtimeconfig.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.runtimeconfig.dev.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.pdb
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.Tests.pdb

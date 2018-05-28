@@ -1,0 +1,11 @@
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.deps.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.runtimeconfig.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.runtimeconfig.dev.json
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.csprojResolveAssemblyReference.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.csproj.CoreCompileInputs.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.AssemblyInfoInputs.cache
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.AssemblyInfo.cs
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
+/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb
