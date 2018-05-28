@@ -13660,23 +13660,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/fschultesz/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/root/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/DotNetCoreSampleApi.Tests.csproj",
+      "projectUniqueName": "/code/DotNetCoreSampleApi.Tests/DotNetCoreSampleApi.Tests.csproj",
       "projectName": "DotNetCoreSampleApi.Tests",
-      "projectPath": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/DotNetCoreSampleApi.Tests.csproj",
-      "packagesPath": "/Users/fschultesz/.nuget/packages/",
-      "outputPath": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi.Tests/obj/",
+      "projectPath": "/code/DotNetCoreSampleApi.Tests/DotNetCoreSampleApi.Tests.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/code/DotNetCoreSampleApi.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/fschultesz/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13687,8 +13687,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj": {
-              "projectPath": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj"
+            "/code/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj": {
+              "projectPath": "/code/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj"
             }
           }
         }

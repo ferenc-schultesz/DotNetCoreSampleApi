@@ -1,0 +1,11 @@
+ersion: 2
+jobs:
+ build:
+   machine: true
+   steps:
+     # checkout source code
+     - checkout
+
+     # unit test
+     - run: |
+         docker-compose -f docker-compose.unittests.yml run --rm unittests

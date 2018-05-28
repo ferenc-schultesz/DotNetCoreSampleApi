@@ -9,3 +9,14 @@
 /Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.AssemblyInfo.cs
 /Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
 /Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb
+/code/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.deps.json
+/code/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.runtimeconfig.json
+/code/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.runtimeconfig.dev.json
+/code/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
+/code/DotNetCoreSampleApi/bin/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.csprojAssemblyReference.cache
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.csproj.CoreCompileInputs.cache
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.AssemblyInfoInputs.cache
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.AssemblyInfo.cs
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.dll
+/code/DotNetCoreSampleApi/obj/Debug/netcoreapp2.0/DotNetCoreSampleApi.pdb

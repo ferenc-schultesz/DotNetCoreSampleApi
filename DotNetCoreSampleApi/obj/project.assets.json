@@ -12535,23 +12535,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/fschultesz/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/root/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
+      "projectUniqueName": "/code/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
       "projectName": "DotNetCoreSampleApi",
-      "projectPath": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
-      "packagesPath": "/Users/fschultesz/.nuget/packages/",
-      "outputPath": "/Users/fschultesz/Projects/DotNetCoreSampleApi/DotNetCoreSampleApi/obj/",
+      "projectPath": "/code/DotNetCoreSampleApi/DotNetCoreSampleApi.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/code/DotNetCoreSampleApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/fschultesz/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
