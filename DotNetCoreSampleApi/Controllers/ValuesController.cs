@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DotNetCoreSampleApi.Controllers
 {
-    [Route("api/[controller]")]
+	[Route("api/values")]
     public class ValuesController : Controller
     {
         // GET api/values
@@ -20,11 +20,8 @@ namespace DotNetCoreSampleApi.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-			if (id == 1)
-			{
-				return $"Congratulations,";
-			}
-            return "value";
+			
+			return id.ToString();
         }
 
         // POST api/values
