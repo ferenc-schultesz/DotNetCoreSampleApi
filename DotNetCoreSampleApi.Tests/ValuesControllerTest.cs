@@ -13,8 +13,8 @@ namespace DotNetCoreSampleApi.Tests
 			var controller = new ValuesController();
 			var values = controller.Get().ToList();
 
-			Assert.True(values.Contains("value1"), "value1 is not returned");
-            Assert.True(values.Contains("value2"), "value2 is not returned");
+			Assert.True(values.Contains("Congratulations,"), "value1 is not returned");
+            Assert.True(values.Contains("You managed to setup CircleCI and Heroku for CI and CD!"), "value2 is not returned");
         }
     }
 }
