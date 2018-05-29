@@ -1,4 +1,4 @@
 build:
   docker:
     web: DotNetCoreSampleApi/Dockerfile
-    worker: DotNetCoreSampleApi/Dockerfile
+    worker: worker/Dockerfile
