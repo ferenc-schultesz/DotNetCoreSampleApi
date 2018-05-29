@@ -17,5 +17,15 @@ namespace DotNetCoreSampleApi.Tests
 			Assert.True(values.Contains("You managed to setup CircleCI and Heroku for CI and CD! ..again"),
 			            "value2 is not returned: " + values[1]);
         }
+
+		[Fact]
+        public void Get_Id_1_Should_Return_Value1()
+        {
+            var controller = new ValuesController();
+            var values = controller.Get(1);
+
+            Assert.True(values.Contains("Congratulations,"), "value1 is not returned");
+            
+        }
     }
 }
