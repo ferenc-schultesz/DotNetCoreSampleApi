@@ -13,7 +13,7 @@ namespace DotNetCoreSampleApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-			return new string[] { "Congratulations,", "You managed to setup CircleCI and Heroku for CI and CD!" };
+			return new string[] { "Congratulations,", "You managed to setup CircleCI and Heroku for CI and CD! ..again" };
         }
 
         // GET api/values/5
