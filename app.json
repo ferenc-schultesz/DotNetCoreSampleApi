@@ -1,0 +1,15 @@
+{
+  "name": "DotNetCoreSampleApi",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
