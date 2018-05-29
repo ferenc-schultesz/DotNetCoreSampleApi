@@ -20,6 +20,10 @@ namespace DotNetCoreSampleApi.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+			if (id == 1)
+			{
+				return $"Congratulations,";
+			}
             return "value";
         }
 
